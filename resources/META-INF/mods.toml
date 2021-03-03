@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="war_z"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="evanm, MCreator"
+authors="vultorio"
 
 [[dependencies.war_z]]
     modId="minecraft"

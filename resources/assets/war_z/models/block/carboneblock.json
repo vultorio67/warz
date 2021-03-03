@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "war_z:blocks/carbone_block",
+    "up": "war_z:blocks/carbone_block",
+    "north": "war_z:blocks/carbone_block",
+    "east": "war_z:blocks/carbone_block",
+    "south": "war_z:blocks/carbone_block",
+    "west": "war_z:blocks/carbone_block",
+    "particle": "war_z:blocks/carbone_block"
+  }
+}

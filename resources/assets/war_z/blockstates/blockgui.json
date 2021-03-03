@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "war_z:block/blockgui"
+    },
+    "facing=east": {
+      "model": "war_z:block/blockgui",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "war_z:block/blockgui",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "war_z:block/blockgui",
+      "y": 270
+    }
+  }
+}

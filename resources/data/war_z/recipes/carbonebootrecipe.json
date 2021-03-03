@@ -1,0 +1,26 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:carboniteingot"
+    },
+    "2": {
+      "item": "war_z:carboniteingot"
+    },
+    "3": {
+      "item": "war_z:carboniteingot"
+    },
+    "5": {
+      "item": "war_z:carboniteingot"
+    }
+  },
+  "result": {
+    "item": "war_z:carbonitearmor_boots",
+    "count": 1
+  }
+}

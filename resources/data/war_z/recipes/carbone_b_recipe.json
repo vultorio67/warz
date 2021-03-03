@@ -1,0 +1,16 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:carboneblock"
+    }
+  },
+  "result": {
+    "item": "war_z:carbone",
+    "count": 9
+  }
+}

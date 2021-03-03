@@ -1,0 +1,42 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:carbone"
+    },
+    "1": {
+      "item": "war_z:carbone"
+    },
+    "2": {
+      "item": "war_z:carbone"
+    },
+    "3": {
+      "item": "war_z:carbone"
+    },
+    "4": {
+      "item": "war_z:carbone"
+    },
+    "5": {
+      "item": "war_z:carbone"
+    },
+    "6": {
+      "item": "war_z:carbone"
+    },
+    "7": {
+      "item": "war_z:carbone"
+    },
+    "8": {
+      "item": "war_z:carbone"
+    }
+  },
+  "result": {
+    "item": "war_z:carboneblock",
+    "count": 1
+  }
+}

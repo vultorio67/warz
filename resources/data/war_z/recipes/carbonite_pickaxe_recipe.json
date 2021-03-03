@@ -1,0 +1,30 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:carboniteingot"
+    },
+    "1": {
+      "item": "war_z:carboniteingot"
+    },
+    "2": {
+      "item": "war_z:carboniteingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "war_z:carbonitepickaxe",
+    "count": 1
+  }
+}

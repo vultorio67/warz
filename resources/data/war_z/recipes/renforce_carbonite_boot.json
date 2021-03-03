@@ -1,0 +1,26 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:reinforce_carbonite_ingot"
+    },
+    "2": {
+      "item": "war_z:reinforce_carbonite_ingot"
+    },
+    "3": {
+      "item": "war_z:reinforce_carbonite_ingot"
+    },
+    "5": {
+      "item": "war_z:reinforce_carbonite_ingot"
+    }
+  },
+  "result": {
+    "item": "war_z:renforce_carbonitea_boots",
+    "count": 1
+  }
+}

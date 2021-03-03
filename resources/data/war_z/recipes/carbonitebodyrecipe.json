@@ -1,0 +1,39 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:carboniteingot"
+    },
+    "2": {
+      "item": "war_z:carboniteingot"
+    },
+    "3": {
+      "item": "war_z:carboniteingot"
+    },
+    "4": {
+      "item": "war_z:carboniteingot"
+    },
+    "5": {
+      "item": "war_z:carboniteingot"
+    },
+    "6": {
+      "item": "war_z:carboniteingot"
+    },
+    "7": {
+      "item": "war_z:carboniteingot"
+    },
+    "8": {
+      "item": "war_z:carboniteingot"
+    }
+  },
+  "result": {
+    "item": "war_z:carbonitearmor_chestplate",
+    "count": 1
+  }
+}

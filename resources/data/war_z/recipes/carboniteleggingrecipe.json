@@ -1,0 +1,36 @@
+{
+  "group": "war_z",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "war_z:carboniteingot"
+    },
+    "1": {
+      "item": "war_z:carboniteingot"
+    },
+    "2": {
+      "item": "war_z:carboniteingot"
+    },
+    "3": {
+      "item": "war_z:carboniteingot"
+    },
+    "5": {
+      "item": "war_z:carboniteingot"
+    },
+    "6": {
+      "item": "war_z:carboniteingot"
+    },
+    "8": {
+      "item": "war_z:carboniteingot"
+    }
+  },
+  "result": {
+    "item": "war_z:carbonitearmor_leggings",
+    "count": 1
+  }
+}
